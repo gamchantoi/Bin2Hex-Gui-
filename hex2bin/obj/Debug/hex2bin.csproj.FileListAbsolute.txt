@@ -1,0 +1,7 @@
+E:\My Documents\Visual Studio 2012\Projects\hex2bin\hex2bin\obj\Debug\hex2bin.Form1.resources
+E:\My Documents\Visual Studio 2012\Projects\hex2bin\hex2bin\obj\Debug\hex2bin.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2012\Projects\hex2bin\hex2bin\bin\Debug\BinKeformatHex.exe
+E:\My Documents\Visual Studio 2012\Projects\hex2bin\hex2bin\bin\Debug\BinKeformatHex.pdb
+E:\My Documents\Visual Studio 2012\Projects\hex2bin\hex2bin\obj\Debug\BinKeformatHex.Properties.Resources.resources
+E:\My Documents\Visual Studio 2012\Projects\hex2bin\hex2bin\obj\Debug\BinKeformatHex.exe
+E:\My Documents\Visual Studio 2012\Projects\hex2bin\hex2bin\obj\Debug\BinKeformatHex.pdb
